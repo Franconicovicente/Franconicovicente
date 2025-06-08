@@ -32,6 +32,20 @@ Franco Vicente
 
 [![My Skills](https://skillicons.dev/icons?i=spring,angular,react,aws)](https://skillicons.dev)
 
+### Hit me up 💬
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" height="50"/>](https://www.linkedin.com/in/franco-vicente-3b6097346/)
+ [<img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" height="50"/>](https://www.instagram.com/frrann.n/)
+ [<img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="discord" height="50"/>](https://discord.com/users/424016595229212672)
+
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/c1/92/bd/c192bda0c297e27c0f155084e2c9db7c.gif" alt="Jinwoo intense look" />
+</div>
+
+
+ 
+
+
 
 
 
