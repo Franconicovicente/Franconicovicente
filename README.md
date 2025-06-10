@@ -39,9 +39,8 @@ Franco Vicente
 
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/_nfNPvSXeI4AAAAd/satoru-gojo-satoru-watching.gif" alt="Jinwoo intense look" />
+  <img src="https://i.pinimg.com/originals/c1/92/bd/c192bda0c297e27c0f155084e2c9db7c.gif" alt="Sung Jin-Woo intense glare" />
 </div>
-
 
  
 
