@@ -30,7 +30,7 @@ Franco Vicente
 
 <p>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,react,aws,ionic)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,react,aws)](https://skillicons.dev)
 
 ### Hit me up 💬
 [<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" height="50"/>](https://www.linkedin.com/in/franco-vicente-3b6097346/)
